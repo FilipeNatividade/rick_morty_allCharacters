@@ -1,0 +1,14 @@
+#character {
+  border: 2px solid yellow;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px 10px;
+  margin: 10px;
+}
+img {
+  height: 150px;
+  margin: 20px auto;
+  width: 150px;
+}
